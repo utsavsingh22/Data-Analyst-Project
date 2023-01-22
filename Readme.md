@@ -4,7 +4,7 @@ In this Project I will try to cover all tools and technology to do better analys
 Any suggestion or comments are most welcome :heart:
 
 
-## Tools and Language I have used.
+## Tools and Language I have used
 - Azure DataBricks
 - Python
 - Sql
