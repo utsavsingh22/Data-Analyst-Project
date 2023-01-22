@@ -17,7 +17,7 @@ Cured : Covid-19 Cured case confirmed on the particular date (Int)
 Deaths : Deaths due to covid-19 confirmed on the particular date (Int)
 Total : Total Covid-19 cases observed till the particular date (Active+Cured+Deaths) (Int)
 
-##Questions
+## Questions
 Q.1 What type of data is provided?
 ANS-Structured data 
 Structured data is the data that is stored in the Tabular format as row and column. The Covid-19 Dataset, in tabular format, is a structured dataset.

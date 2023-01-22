@@ -1,5 +1,7 @@
 ### Whole Food Market
 
+In this Dataset I tried to solve Problems using azuredatabricks,read write operation,SQL for the better answer for the Food market dataset.
+
 WHOLE FOOD MARKET
 A big multinational company "Whole Foods market" wants to revamp their retail strategy in
 India. You as a newly hired Data Analyst have been asked to be a part of the project. Your
