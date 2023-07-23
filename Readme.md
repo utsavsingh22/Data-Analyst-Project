@@ -13,5 +13,6 @@ Any suggestion or comments are most welcome :heart:
 
 - [CovidDatasetProject](https://github.com/utsavsingh22/Data-Analyst-Project/tree/master/Covid%20DataSetProject)
 - [HackerRank SQL](https://github.com/utsavsingh22/Data-Analyst-Project/tree/master/HackerRank%20SQL)
+- [SQL Leetcode Problems](https://github.com/utsavsingh22/SQL_50_StudyPlan)
 - [Netflix Dataset](https://github.com/utsavsingh22/Data-Analyst-Project/tree/master/NetflixDataset)
 - [Food Market Dataset](https://github.com/utsavsingh22/Data-Analyst-Project/tree/master/Whole%20Food%20Market)
